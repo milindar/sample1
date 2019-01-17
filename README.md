@@ -5,7 +5,7 @@
 
 
 ## Links 
-- [github](https://milindar.github.io/sample/ "Website")
+- [github](https://milindar.github.io/sample1/ "Website")
 - [Source](https://github.com/milindar/sample "Source")
 
  ## Hobbies
