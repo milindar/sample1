@@ -1,7 +1,7 @@
 # First Repository 
 
 ## Intro
-*This is millindar from India, this is my first respo*
+*This is millindar from India, this is my first repository*
 
 
 ## Links 
