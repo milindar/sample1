@@ -5,7 +5,10 @@
 
 
 ## Links ##
-- [Webpage](https://milindar.github.io/sample/ "Website")
+- [github](https://milindar.github.io/sample/ "Website")
 - [Source](https://github.com/milindar/sample- "Source")
 
- 
+ ## Hobbies 
+ 1 Playing Games
+ 2 Watching Movies
+
