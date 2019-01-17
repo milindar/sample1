@@ -5,7 +5,7 @@
 
 
 ## Links ##
-[Webpage](https://milindar.github.io/sample/ "Website")
-[Source](https://github.com/milindar/sample- "Source")
+- [Webpage](https://milindar.github.io/sample/ "Website")
+- [Source](https://github.com/milindar/sample- "Source")
 
  
