@@ -1,6 +1,11 @@
 # First Respo #
-## Sample ##
+
+## Intro
+*This is millindar from India, this is my first respo
 
 
 ## Links ##
--[webpage](https://milindar.github.io/sample/ "Website")
+-[Webpage](https://milindar.github.io/sample/ "Website")
+-[Source](https://github.com/milindar/sample- "Source")
+
+ 
