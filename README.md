@@ -6,7 +6,7 @@
 
 ## Links ##
 - [github](https://milindar.github.io/sample/ "Website")
-- [Source](https://github.com/milindar/sample- "Source")
+- [Source](https://github.com/milindar/sample "Source")
 
  ## Hobbies ##
 
@@ -23,4 +23,5 @@ https://www.123rf.com/photo_83570563_stock-vector-hand-written-never-give-up-bru
 ## About
 
 Millindar Reddy
+
 S534638@NWMISSOURI.EDU
