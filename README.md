@@ -1,4 +1,4 @@
-# First Respo #
+# First Respo 
 
 ## Intro
 *This is millindar from India, this is my first respo*
@@ -9,6 +9,10 @@
 - [Source](https://github.com/milindar/sample- "Source")
 
  ## Hobbies 
- 1. Playing Games
+ 1. Reading Books 
  2. Watching Movies
+ 3. Playing Games 
+ 
+ ## Image
+ ![Image]
 
