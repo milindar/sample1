@@ -15,7 +15,7 @@
 1. Playing Games 
  
 ## Image 
-![Image](https://github.com/milindar/sample/blob/master/83570563-hand-written-never-give-up-brush-calligraphy-lettering-on-watercolor-spot-background-vector-illustra.jpg)
+![Hosted image](https://www.sciencenews.org/sites/default/files/2018/08/main/articles/082918_lh_crispr-beagles_feat_REV.jpg "082918_lh_crispr-beagles_feat_REV")
 ### Source of image
 ```
 https://www.123rf.com/photo_83570563_stock-vector-hand-written-never-give-up-brush-calligraphy-lettering-on-watercolor-spot-background-vector-illustra.html
