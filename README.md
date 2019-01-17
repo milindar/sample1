@@ -9,6 +9,6 @@
 - [Source](https://github.com/milindar/sample- "Source")
 
  ## Hobbies 
- 1 Playing Games
- 2 Watching Movies
+ 1. Playing Games
+ 2. Watching Movies
 
